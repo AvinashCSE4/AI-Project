@@ -4,7 +4,9 @@ Tilak Patel(KU2407U219)
 Sharad Patel(KU2407U198)
 Avinash Patel(KU2407U028)
 Shrey Shah(KU2407U743)
-
+Project Contribution :
+Pie Chart (Avinash&Tilak)
+Dashbaord(Sharad&Shrey)
 Step-by-Step Guide:
 Import Libraries: You'll need dash, pandas, and plotly.express for the dashboard and visualization.
 Prepare Data: Use sample crime data in a pandas DataFrame.
